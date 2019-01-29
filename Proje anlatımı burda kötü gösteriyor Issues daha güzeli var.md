@@ -1,4 +1,4 @@
-# Projenin-anlat-m-
+# Projenin-anlat-m- Burda kötü gösteriyor Isseus ta daha iyi gösteriyor
 Projeyi yaparken ilk başta ubuntu üzerinde yukleme yaptık fakat ubuntunun yavaşlığı yüzünden aynı editör olan python editörü kullandık 
 aynı şey sonuçta python editörü öğrenmek 1 ayda öğrenmek tanımak diğer editörlerle aynı olmadığı kesin proje gelişmeye muhtaç bilgisayara 
 bazı şeyleri anlatamadım tabı gelecekte buraya daha güzel bir python alam saati yuklerim arkadaşlar 
